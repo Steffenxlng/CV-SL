@@ -49,3 +49,29 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+/* NEU ALLES AB HIER!!!! */
+
+.logo-container{
+	display: flex;
+	
+}
+.biography-logo{
+	width: auto;
+	align-self: center;
+}
+
+/*
+
+
+.biography-logo {
+	height: 100px;
+	width: 400;
+}
+.biography-logo{
+	align-content: center;
+	align-self: center;
+}
+
+
+*/
