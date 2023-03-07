@@ -78,7 +78,11 @@ img {
 	color: #FFFFFF;
 }
 
-
+.biography-section h2{
+	text-align: center;
+	margin: 1em;
+	font-size: 38px;
+}
 /*
 .logo-links {
 
