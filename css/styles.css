@@ -16,14 +16,20 @@ body {
 
 .resume-header {
     background-color: #0077B6;
+	border-bottom: solid 10px;
+	border-color: #004366;
 }
 
 .resume-main {
 	background-color: #fffefc;
+	background: rgb(124,154,251);
+background: linear-gradient(90deg, rgba(165,236,255,1.00) 0%, rgba(255,255,255,1) 100%);
 }
 
 .resume-aside {
 	background-color: #90e0ef;
+	border-left: solid 5px;
+	border-color: #004366;
 }
 
 /* Styles for lists in the document */
@@ -79,6 +85,7 @@ img {
 .header-content{
 	color: #FFFFFF;
 }
+
 
 .biography-section h2{
 	text-align: center;
