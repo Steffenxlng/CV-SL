@@ -22,8 +22,7 @@ body {
 
 .resume-main {
 	background-color: #fffefc;
-	background: rgb(124,154,251);
-background: linear-gradient(90deg, rgba(165,236,255,1.00) 0%, rgba(255,255,255,1) 100%);
+background: linear-gradient(270deg, rgba(165,236,255,1.00) 0%, rgba(255,255,255,1) 4%);
 }
 
 .resume-aside {
